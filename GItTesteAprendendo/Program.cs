@@ -10,6 +10,8 @@ namespace GItTesteAprendendo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("querido diario");
+            Console.WriteLine("22/03/18 : peguei uma gostosa (e aids)");
         }
     }
 }
